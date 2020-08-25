@@ -1,0 +1,17 @@
+/* Global */
+html, body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+body {
+    min-width: 320px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
